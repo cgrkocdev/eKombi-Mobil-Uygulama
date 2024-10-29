@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eKombi</string>
+    <string name="btnYazisiArtir">ARTTIR</string>
+    <string name="btnYazisiAzalt">AZALT</string>
+    <string name="btnYazisiKapat">Kombiyi Kapat</string>
+    <string name="tv1Yazisi">KOMBİ KONTROL SİSTEMİ</string>
+    <string name="tv2Yazisi">Hedef Sıcaklık:</string>
+</resources>
